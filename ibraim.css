@@ -85,11 +85,6 @@ p{
     font-family: cursive;
     transition: 1s;
 }
-p:hover{
-    font-size: larger;
-    font-weight: bold;
-    font-family: 'Times New Roman', Times, serif;
-}
 /* .title{
     background-color: #87ceeb;
     color: black;
